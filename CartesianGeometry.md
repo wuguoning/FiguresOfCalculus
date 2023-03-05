@@ -42,6 +42,8 @@
 ## Surface of hyperbolic paraboloid $x=y^2-z^2$
 ![image](figures/CartesianGeometry/hyperbolic_paraboloid3.png)
 
+## Chapter8-7-B-3-1 
+![image](figures/CartesianGeometry/ch8-7-B-3-1.png)
 
 ## Surfaces of $z = \sqrt{x^2+y^2}$ and $z^2 = x$
 
