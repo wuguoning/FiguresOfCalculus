@@ -9,17 +9,14 @@
 ## Surface of cylinder $x^2 + z^2 = a^2$
 ![image](figures/CartesianGeometry/cylinder3.png)
 
-## Surface of cylinder $\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1,a=max{a,b,c}$
+## Surface of cylinder $\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1,a=max\{a,b,c\}$
 ![image](figures/CartesianGeometry/ellipse1.png)
 
-## Surface of cylinder $\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1,b=max{a,b,c}$
+## Surface of cylinder $\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1,b=max\{a,b,c\}$
 ![image](figures/CartesianGeometry/ellipse2.png)
 
-## Surface of cylinder $\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1,c=max{a,b,c}$
+## Surface of cylinder $\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1,c=max\{a,b,c\}$
 ![image](figures/CartesianGeometry/ellipse3.png)
-
-## Surface of hyperboloid of single sheet $-\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1$
-![image](figures/CartesianGeometry/hyperboloid_single1.png)
 
 ## Surface of hyperboloid of single sheet $-\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1$
 ![image](figures/CartesianGeometry/hyperboloid_single1.png)
