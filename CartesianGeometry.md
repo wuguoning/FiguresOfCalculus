@@ -70,8 +70,6 @@
 ## Chapter8-excise-B-7-2
 ![image](figures/CartesianGeometry/ch8-excise-B-7-2.png)
 
-## Chapter8-excise-B-7-3
-![image](figures/CartesianGeometry/ch8-excise-B-7-3.png)
 
 ## Surfaces of $z = \sqrt{x^2+y^2}$ and $z^2 = x$
 
