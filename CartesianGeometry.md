@@ -60,6 +60,19 @@
 ## Chapter8-excise-B-1-3
 ![image](figures/CartesianGeometry/ch8-excise-B-1-3.png)
 
+## Chapter8-excise-B-2
+![image](figures/CartesianGeometry/ch8-excise-B-2.png)
+
+## Chapter8-excise-B-7-1
+![image](figures/CartesianGeometry/ch8-excise-B-7.png)
+![image](figures/CartesianGeometry/ch8-excise-B-7-1.png)
+
+## Chapter8-excise-B-7-2
+![image](figures/CartesianGeometry/ch8-excise-B-7-2.png)
+
+## Chapter8-excise-B-7-3
+![image](figures/CartesianGeometry/ch8-excise-B-7-3.png)
+
 ## Surfaces of $z = \sqrt{x^2+y^2}$ and $z^2 = x$
 
 The upper surface is $z^2 = x$, and the lower surface 
